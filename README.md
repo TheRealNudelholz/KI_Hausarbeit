@@ -5,6 +5,7 @@ This implementation should teach you, how a basic neural net and pruning methods
 ## Usage
 
 Within the package Testing are methods to explore the neural nets behaviour with various hyperparameters and pruning methods.
+The MNIST dataset has to be placed on your own in root folder NN.
 
 ## Classes
 
